@@ -17,9 +17,9 @@ body {
 .container {
     background-color: white;
     border-radius: 15px;
-    margin: 20% auto;
+    margin: 20vh auto;
     padding: 16px 16px 40px 16px;
-    min-height: 60vh;
+    min-height: 4px;
     width: 300px;
 
     display: block;
