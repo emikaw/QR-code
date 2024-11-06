@@ -48,6 +48,6 @@ h1 {
 .container p {
     text-align: center;
     margin-top: 12px;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
