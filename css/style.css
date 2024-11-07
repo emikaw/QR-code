@@ -9,7 +9,6 @@
 body {
     font-family: "Outfit";
     background-color: hsl(212, 45%, 89%);
-
 }
 
 .container {
@@ -36,18 +35,17 @@ body {
 h1 {
     color: hsl(218, 44%, 22%);
     font-size: 7.5cqi;
-
 }
 
 .container p {
     color: hsl(216, 15%, 48%);
     font-size: 5.5cqi;
+    margin-top: 12px;
 }
 
-.container h1,
-.container p {
-    text-align: center;
+.text {
     margin-top: 12px;
+    text-align: center;
     padding-left: 12px;
     padding-right: 12px;
 }
