@@ -1,2 +1,3 @@
-# qr-code-site
+# QR code site
+http://username.github.io/QR-code
  
