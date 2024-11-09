@@ -1,3 +1,3 @@
 # QR code site
-http://username.github.io/QR-code
+http://emikaw.github.io/QR-code
  
